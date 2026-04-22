@@ -1,0 +1,6 @@
+interface:
+  display_name: "Azure"
+  short_description: "Use Azure for cloud computing and services"
+  icon_small: "./assets/azure-logo.svg"
+  icon_large: "./assets/azure-logo.png"
+  default_prompt: "Use Azure to manage and deploy cloud resources efficiently."
